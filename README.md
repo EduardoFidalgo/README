@@ -9,6 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFidalgo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- [![My Skills](https://skills.thijs.gg/icons?i=js,jquery,react,python,php,laravel,mysql)](https://skills.thijs.gg)  
+ [![My Skills](https://skills.thijs.gg/icons?i=js,jquery,react,python,php,laravel,mysql,go)](https://skills.thijs.gg)  
 
 ![Snake animation](https://github.com/EduardoFidalgo/EduardoFidalgo/blob/output/github-contribution-grid-snake.svg)
