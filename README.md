@@ -1,5 +1,4 @@
 <h2>Hello World! ☕</h2>
-<img width="370" align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" title="Não esqueça de alimentar seu gato! ;)">
   
 <div style="text-align:center">
   <p>A technology enthusiast learning more every day. ☄️</p>
